@@ -1,0 +1,14 @@
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\bin\Debug\Convertor.exe.config
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\bin\Debug\Convertor.exe
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\bin\Debug\Convertor.pdb
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\obj\Debug\Convertor.Form1.resources
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\obj\Debug\Convertor.Properties.Resources.resources
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\obj\Debug\Convertor.csproj.GenerateResource.Cache
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\obj\Debug\Convertor.exe
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\obj\Debug\Convertor.pdb
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\obj\Debug\Convertor.Form2.resources
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\bin\Debug\MediaToolkit.dll
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\obj\Debug\Convertor.FormOutFolder.resources
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\obj\Debug\Convertor.csprojResolveAssemblyReference.cache
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\obj\Debug\Convertor.AboutBox1.resources
+C:\Users\tshal\OneDrive\Documents\Visual Studio 2015\Projects\WF\Convertor\Convertor\obj\Debug\Convertor.Help.resources

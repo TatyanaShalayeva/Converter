@@ -1,0 +1,24 @@
+Efficient Audio File Convertor
+
+EFFICIENT CONVERTER SUPPORTS THE MOST POPULAR AUDIO FILES FORMATS AS MP3, WMA, FLAC, WAV
+
+Batch conversion mode is implemented in this converter. It makes the process of conversion of great amount of files all at once much easier
+
+Just add files for conversion, choose an appropriate audio format and press Convert 
+
+So, this program is an ideal way out for those who want to convert audio files in order to listen to them in mobiles and players and don't want to go through the hassle of settings
+
+Program supports the wide range of popular input formats (like MP3, WMA, OGG, FLAC, WAV)
+Batch Processing is supported, it can process an unlimited number of files at one time. Simply add file(s) to convert and press "Convert" button
+Simple to use interface without bunch of graphics
+
+It uses up-to-date and high quality audio encoders
+It's stable, fast and very easy
+
+Specification:
+
+* Choose format input file(s)
+* Add files to list for conversion
+* Choose an appropriate audio output format
+* Choose an destination folder
+* Press Convert
